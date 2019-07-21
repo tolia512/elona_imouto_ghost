@@ -2,19 +2,23 @@ charset,UTF-8
 type,ghost
 
 //ゴーストの名前
-name,ゴーストの名前
+name,妹(Elona)
 
 //キャラクターの名前
-sakura.name,メインキャラの名前
-kero.name,サブキャラの名前
+sakura.name,妹
+kero.name,none
 
 //デフォルトで使うバルーン名・パスの指定
-//balloon,バルーン名
-//default.balloon.path,path
+balloon,elona_imouto_balloon
+default.balloon.path,elona_imouto_balloon
 
 craftman,yury
 craftmanw,yury
-craftmanurl,https://github.com/tolia512/elona_imouto_gohst
+craftmanurl,https://github.com/tolia512/
+
+updateurl,https://github.com/tolia512/elona_imouto_gohst/raw/master/
 
 icon,icon.ico
+icon.minimize,icon_minimize.ico
+
 shiori,yaya.dll
